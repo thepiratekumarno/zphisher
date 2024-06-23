@@ -1,0 +1,120 @@
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:5e07:b51e:5040:9708
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:5e07:b51e:5040:9708
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:58d5:7c84:74d9:fdee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2409:40c2:3049:c66c:58d5:7c84:74d9:fdee
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 106.210.157.143
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2409:40c2:3049:c66c:58d5:7c84:74d9:fdee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2a03:2880:22ff:10::face:b00c
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 152.59.9.194
+User-Agent: Mozilla/5.0 (Linux; Android 13; M2101K7BI Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 Instagram 335.0.0.0.79 Android (33/13; 440dpi; 1080x2307; Xiaomi/Redmi; M2101K7BI; secret; mt6785; en_IN; 607014090)
+
+IP: 2409:40c2:3049:c66c:58d5:7c84:74d9:fdee
+User-Agent: Mozilla/5.0 (Linux; Android 13; M2101K7BI Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 Instagram 335.0.0.0.79 Android (33/13; 440dpi; 1080x2307; Xiaomi/Redmi; M2101K7BI; secret; mt6785; en_IN; 607014090)
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 13; M2101K7BI Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 Instagram 335.0.0.0.79 Android (33/13; 440dpi; 1080x2307; Xiaomi/Redmi; M2101K7BI; secret; mt6785; en_IN; 607014090)
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 13; M2101K7BI Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 Instagram 335.0.0.0.79 Android (33/13; 440dpi; 1080x2307; Xiaomi/Redmi; M2101K7BI; secret; mt6785; en_IN; 607014090)
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 13; M2101K7BI Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Mobile Safari/537.36 Instagram 335.0.0.0.79 Android (33/13; 440dpi; 1080x2307; Xiaomi/Redmi; M2101K7BI; secret; mt6785; en_IN; 607014090)
+
+IP: 2a03:2880:32ff:71::face:b00c
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2a03:2880:32ff:74::face:b00c
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 2401:4900:1907:19a9:f507:5bc9:68a7:dbe0
+User-Agent: Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36 Instagram 335.0.0.39.93 Android (28/9; 440dpi; 1080x2062; Xiaomi/xiaomi; Redmi Note 6 Pro; tulip; qcom; en_IN; 609189988)
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:5021:d4e0:1:0:e11f:698f
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:1970:3d40:1:0:e1da:7919
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:1970:3d40:1:0:e1da:7919
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2409:40c2:3049:c66c:eb57:2395:c53a:68ca
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2401:4900:1970:3d40:50fd:f20c:3cdf:b70c
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:b4f6:4919:7d99:7e41
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:b4f6:4919:7d99:7e41
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:b4f6:4919:7d99:7e41
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:40c2:3049:c66c:58d5:7c84:74d9:fdee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2409:40c2:3049:c66c:b4f6:4919:7d99:7e41
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2409:4042:2d99:e2cb:728c:c34c:a849:98f8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:5039:a8c4:1:0:e9ae:4ee
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+IP: 2401:4900:503d:edb0:1:0:f0c0:3fc
+User-Agent: WhatsApp/2.23.20.0
+
+IP: 2401:4900:503d:edb0:1:0:f0c0:3fc
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
